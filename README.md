@@ -6,6 +6,9 @@
 ## Skills
 - ASP.NET Core
 - C#
+- MVC
+- .Net
+- REST API
 - SQL Server
 - Web APIs
 - Python
